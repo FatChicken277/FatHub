@@ -10,7 +10,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://example.com/", // Your website URL
+  site: "https://fathub.pages.dev/", // Your website URL
 
   i18n: {
     locales: ["es", "en"],
